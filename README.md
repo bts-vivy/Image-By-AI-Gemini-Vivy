@@ -1,1 +1,1 @@
-<span style="color:red;"> ***Semua Gambar Yang Ada Di File Ini Sepenuhnya Buatan AI dan tidak bisa diklaim Hak Cipta Oleh Siapapun, Semua Ini Karya Murni Buatan Saya Melalui Prompt AI dan Gambar Ini Bebas Digunakan Oleh Siapapun*** </span>
+<code style="color:red;"> ***Semua Gambar Yang Ada Di File Ini Sepenuhnya Buatan AI dan tidak bisa diklaim Hak Cipta Oleh Siapapun, Semua Ini Karya Murni Buatan Saya Melalui Prompt AI dan Gambar Ini Bebas Digunakan Oleh Siapapun*** </code>
