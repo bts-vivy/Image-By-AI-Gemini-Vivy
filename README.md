@@ -1,1 +1,1 @@
-<code style="color:red;"> ***Semua Gambar Yang Ada Di File Ini Sepenuhnya Buatan AI dan tidak bisa diklaim Hak Cipta Oleh Siapapun, Semua Ini Karya Murni Buatan Saya Melalui Prompt AI dan Gambar Ini Bebas Digunakan Oleh Siapapun*** </code>
+$${\color{red}File\space Gambar\space Disini\space Murni\space Buatan\space AI\space Dengan\space Prompt\space Khusus\space Tertentu,\space Dan\space Tidak\space Bisa\space DiKlaim\space HakCipta\space Oleh\space Siapapun}$$
